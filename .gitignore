@@ -1,0 +1,8 @@
+# Pliki użytkowników (nie wrzucamy materiałów wideo MP4 ani okładek do Gita)
+films/
+uploads/
+*.mp4
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
